@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Pavel
+</h1>
 
-<!--
-**anvianvi/anvianvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A front-end developer with entry-level experience specializing in web development, UI design, HTML, and AngularJS. Adept at identifying opportunities to enhance front-end design and improve the UX.
 
-Here are some ideas to get you started:
+### Skills
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,graphql,bootstrap,figma,git,jenkins,jest,vite,vscode,webpack" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pavel-viarbitsky/)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pavel_anvi/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvianvi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anvianvi" /></p>
