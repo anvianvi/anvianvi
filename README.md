@@ -1,7 +1,5 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Pavel
+  Hello there! 🌟 I'm Pavel.
 </h1>
 
 A front-end developer with entry-level experience specializing in web development, UI design, HTML, and AngularJS. Adept at identifying opportunities to enhance front-end design and improve the UX.
