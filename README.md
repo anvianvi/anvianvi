@@ -5,7 +5,7 @@
 A front-end developer with entry-level experience specializing in web development, UI design, HTML, and AngularJS. Adept at identifying opportunities to enhance front-end design and improve the UX.
 
 ### Skills
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,graphql,bootstrap,figma,git,jenkins,jest,vite,vscode,webpack" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,graphql,vscode,vite,webpack,bootstrap,figma,git,jest" />
 
 ### Connect with Me
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pavel-viarbitsky/)
