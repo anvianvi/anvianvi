@@ -2,7 +2,10 @@
   Hello there! 🌟 I'm Pavel.
 </h1>
 
-A front-end developer with entry-level experience specializing in web development, UI design, HTML, and AngularJS. Adept at identifying opportunities to enhance front-end design and improve the UX.
+I've been improving my JS skills for more than 3 years
+I have been completing projects on Angular for 2+ years
+
+Dream project - sports applications for championships and competitions
 
 ### Skills
 <img src="https://skillicons.dev/icons?i=js,ts,angular,react,html,css,graphql,vite,webpack,bootstrap,figma,git,jest,vscode" />
