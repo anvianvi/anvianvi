@@ -2,8 +2,8 @@
   Hello there! 🌟 I'm Pavel.
 </h1>
 
-I've been improving my JS skills for more than 3 years
-I have been completing projects on Angular for 2+ years
+- I've been improving my JS skills for more than 3 years
+- I have been completing projects on Angular for 2+ years
 
 Dream project - sports applications for championships and competitions
 
