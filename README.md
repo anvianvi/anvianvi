@@ -2,10 +2,7 @@
   Hello there! 🌟 I'm Pavel.
 </h1>
 
-- I've been improving my JS skills for more than 3 years
-- I have been completing projects on Angular for 2+ years
-
-Dream project - sports applications for championships and competitions
+Dedicated web developer with 3+ years of JavaScript experience and 2+ years focusing on Angular. Seeking to leverage strong technical skills and continuous learning mindset to contribute to commercial projects, particularly in sports-related applications.
 
 ### Skills
 <img src="https://skillicons.dev/icons?i=js,ts,angular,react,html,css,graphql,vite,webpack,bootstrap,figma,git,jest,vscode" />
