@@ -9,6 +9,5 @@ Dedicated web developer with 3+ years of JavaScript experience and 2+ years focu
 
 ### Connect with Me
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pavel-viarbitsky/)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pavel_anvi/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvianvi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anvianvi" /></p>
